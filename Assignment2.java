@@ -21,7 +21,7 @@ class Derived extends Parent {
 	}
 	 
 	
-	public class StaticOverride {
+	public class Assignment2 {
 	    public static void main(String args[])  {
 	       Parent ps = new Derived();
 	       ps.display(); 
