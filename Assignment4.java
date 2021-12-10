@@ -68,7 +68,7 @@ class Currentemployee extends employee{
 	      return name + " " + id +" "+status;
 	   }
 }
-public class Empmain {
+public class Assignment4 {
 	public static void main(String args[]) {
 		
 		Permanentemployee emp1= new Permanentemployee("Dhana",1,"permanentemployee");
