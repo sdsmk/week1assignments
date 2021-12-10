@@ -50,7 +50,7 @@ class NotificationBar {
 		
 	}	
 }
-public class SingleEg {
+public class Assignment1 {
 	
 	public static void main(String[] args) {
 		NotificationBar nBar1 = NotificationBar.getInstance();
